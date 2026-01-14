@@ -1,0 +1,26 @@
+ID        Name       Total  Percent  Grade  CGPA
+-----------------------------------------------
+25mcmi27   Harshith      411    82.20      A   8.22
+25mcmi02   Anita         476    95.20      O   9.52
+25mcmi03   Rohit         348    69.60     B+   6.96
+25mcmi04   Sneha         437    87.40     A+   8.74
+25mcmi05   Karthik       308    61.60      B   6.16
+25mcmi06   Priya         480    96.00      O   9.60
+25mcmi07   Vamsi         370    74.00     B+   7.40
+25mcmi08   Divya         430    86.00     A+   8.60
+25mcmi09   Suresh        275    55.00      C   5.50
+25mcmi10   Meena         390    78.00      A   7.80
+
+Class Average : 78.50
+Highest %     : 96.00
+Lowest %      : 55.00
+
+Grade Count:
+O  : 2
+A+ : 2
+A  : 2
+B+ : 2
+B  : 1
+C  : 1
+D  : 0
+F  : 0
